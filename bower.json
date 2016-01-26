@@ -1,0 +1,12 @@
+{
+  "name": "ASP.NET",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "overrides": {
+  },
+  "resolutions": {
+  }
+}
